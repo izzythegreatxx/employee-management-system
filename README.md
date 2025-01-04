@@ -1,4 +1,5 @@
 This is a comprehensive Employee Management System designed in Python. It includes features for managing employee records, user authentication, and logging, along with advanced security features like CAPTCHA validation and session timeout.
+This version is CLI based.
 
 -Features-
 User Authentication:
